@@ -1,42 +1,38 @@
-# Dharmendra Patel 😉
+# Dharmendra Patel
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+### Computer Science Enthusiast | AI & Machine Learning
 
-## 💪 Skills
+Welcome to my GitHub profile! I am passionate about software development, Artificial Intelligence, and Machine Learning. I enjoy building projects, exploring new technologies, and solving real-world problems through code.
 
-### Languages & Technologies
+## About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Interested in Artificial Intelligence and Machine Learning.
+- Exploring Deep Learning and Computer Vision.
+- Practicing problem-solving and programming.
+- Continuously learning and building projects.
 
-### AI / Machine Learning
+## Technical Skills
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**Languages:** Python, C++, SQL
 
-### Tools
+**AI/ML:** Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+**Data Analysis:** NumPy, Pandas, Matplotlib
 
-## 📊 GitHub Stats
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+**Web Technologies:** HTML, CSS, JavaScript
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+## GitHub Statistics
 
-## 📫 Contacts
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analogdev4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-kumar-mishra-8a9334284/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
+## Connect With Me
+
+- **Email:** [nandan07014@gmail.com](mailto:nandan07014@gmail.com)
 
 ---
 
-⭐ Thanks for visiting my profile!
+*Always learning. Always building.*
